@@ -8,7 +8,6 @@ The Library Management System is a Java-based application designed to manage lib
 3. Installation
 4. Usage
 5. Contributing
-6. License
 
 ## Features
 
@@ -30,7 +29,9 @@ List any software, tools, or dependencies that users need to have installed befo
 
 1. Java Development Kit (JDK) 8 or higher
 2. Installation
-   
+
+## Installation 
+
 ### Clone the repository:
 git clone https://github.com/prathamrao021/Library-Management-System
 
