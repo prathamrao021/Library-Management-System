@@ -29,18 +29,16 @@ Provide instructions on how to set up and run the Library Management System loca
 List any software, tools, or dependencies that users need to have installed before running the system. Include versions if necessary.
 
 1. Java Development Kit (JDK) 8 or higher
-2. MySQL Database
-3. Installation
+2. Installation
    
 ### Clone the repository:
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/prathamrao021/Library-Management-System
 
 ### Navigate to the project directory:
 cd library-management-system
-Configure the database connection by editing the application.properties file and providing your MySQL database credentials.
-
-### Build the project:
-./mvnw clean package
 
 ### Run the application:
 java -jar target/library-management-system.jar
+
+## Contribution
+This project has a major impact in various ways. It would allow you to understand the basic concept of the Java Programming Language. This will give you an idea about the fucntionalities that are required in different fileds. The project will give you key a brief idea about the working of classes as objects. 
