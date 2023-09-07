@@ -6,8 +6,7 @@ The Library Management System is a Java-based application designed to manage lib
 1. Features
 2. Getting Started
 3. Installation
-4. Usage
-5. Contributing
+4. Contributing
 
 ## Features
 
